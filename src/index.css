@@ -1,16 +1,22 @@
-.bottom {
-    margin: 10px;
-    padding: 5px;
-    border: 2px solid black;
-    border-radius: 10px;
-  }
-  
-  .row {
-    border: 2px solid;
-    border-radius: 10px;
-    box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
-  }
-  
-  body {
-    background-color: #F5F5F7;
-  }
+.cart{
+
+  border: 1px solid black;
+  height: 100px;
+  width: 100px;
+}
+img{
+
+  border: gray;
+  background-color: gray !important;
+  color: aqua !important;
+  border :1px solid black !important;
+  height:100px;
+  width: 100px;
+
+}
+.cart-page{
+
+  border: 1px solid black !important;
+  height: 100px !important;
+  width: 100px !important;
+}
